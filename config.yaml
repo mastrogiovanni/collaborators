@@ -1,0 +1,10 @@
+publicKey: e58e949473ef4c23e62100a8439d8fda3d13b3008f6a8d59378d52b0a541df98
+users:
+    - code: abc1
+      name: Michele Mastrogiovanni
+      role: CEO
+      image: face1.jpeg
+    - code: abc2
+      name: Rolando Capasso
+      role: Capo Cantiere
+      image: face2.jpeg
